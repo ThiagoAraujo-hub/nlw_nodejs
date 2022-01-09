@@ -1,4 +1,4 @@
-# **NLW Valoriza**
+# **NLW Together NodeJs**
 
 ## **Regras**
 
